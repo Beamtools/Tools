@@ -1,3 +1,2 @@
 # Tools
-pkg install git
-git clone 
+pkg install git && git clone https://github.com/Beamtools/Tools
